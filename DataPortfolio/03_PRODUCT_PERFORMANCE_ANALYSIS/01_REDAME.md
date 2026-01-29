@@ -38,3 +38,43 @@ SELECT
     sub_category,
     COUNT(DISTINCT order_id) AS total_orders,
     SUM(quantity) AS unit
+```
+
+---
+
+## Tableau Dashboard
+
+The dashboard includes:
+- **KPIs:** Total Revenue, Total Profit, and Average Profit Margin
+- **Top 10 Products:** Bar chart showing highest revenue products
+- **Revenue by Category:** Comparison of category-level performance
+- **Profit vs Revenue Scatter Plot:** Dot size represents units sold, color represents category
+- **Filters:** Category and Sub-Category for interactive exploration
+
+### Dashboard Screenshots
+
+![Product KPIs](./04_Tableau/Dashboard%20Images/Dashboard_overview.png)
+*KPIs displaying total revenue, total profit, and average profit margin for products.*
+
+![Top 10 Products](./04_Tableau/Dashboard%20Images/top_10_products.png)
+*Bar chart of top 10 products by revenue.*
+
+![Revenue by Category](./04_Tableau/Dashboard%20Images/revenue_by_category.png)
+*Comparison of revenue across product categories.*
+
+![Profit vs Revenue Scatter Plot](./04_Tableau/Dashboard%20Images/profit_vs_revenue_scatter.png)
+*Scatter plot visualizing product profitability with units sold as dot size.*
+
+---
+
+## Key Insights
+- A small number of products drive the majority of revenue
+- Certain categories have higher profit margins, highlighting opportunities for focus
+- The scatter plot helps identify products that are both high revenue and high profit
+
+---
+
+## Skills Demonstrated
+- SQL: Aggregations, ranking, calculating profit margin, preparing Tableau-ready datasets
+- Tableau: KPIs, bar charts, scatter plots, filters, interactive dashboards
+- Business analytics and data storytelling
