@@ -56,13 +56,13 @@ The dashboard includes:
 ![Product KPIs](./04_Tableau/Dashboard%20Images/Dashboard_overview.png)
 *KPIs displaying total revenue, total profit, and average profit margin for products.*
 
-![Top 10 Products](./04_Tableau/Dashboard%20Images/top_10_products.png)
+![Top 10 Products](./04_Tableau/Dashboard%20Images/Top-10_Products.png)
 *Bar chart of top 10 products by revenue.*
 
-![Revenue by Category](./04_Tableau/Dashboard%20Images/revenue_by_category.png)
+![Revenue by Category](./04_Tableau/Dashboard%20Images/Revenue_by_Category.png)
 *Comparison of revenue across product categories.*
 
-![Profit vs Revenue Scatter Plot](./04_Tableau/Dashboard%20Images/profit_vs_revenue_scatter.png)
+![Profit vs Revenue Scatter Plot](./04_Tableau/Dashboard%20Images/Profit_vs._Revenue_scatter.png)
 *Scatter plot visualizing product profitability with units sold as dot size.*
 
 ---
