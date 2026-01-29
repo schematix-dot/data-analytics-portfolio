@@ -52,3 +52,38 @@ SELECT *,
         ELSE 'Mid-Value'
     END AS customer_segment
 FROM customer_segments;
+```
+---
+
+## Tableau Dashboard
+
+The dashboard includes:
+- Customer KPIs: Total Revenue and Average Order Value
+- Revenue by Customer: Top customers bar chart
+- Customer Segments: Scatter plot showing revenue vs. average order value
+- Filters: Region and Customer Segment
+
+### Dashboard Screenshots
+
+![Customer KPIs](./04_Tableau/Dashboard%20Images/Dashboard_overview.png)
+*KPIs showing total revenue and average order value by customer.*
+
+![Revenue by Customer](./04_Tableau/Dashboard%20Images/revenue_by_segment.png)
+*Bar chart of top customers by revenue.*
+
+![Customer Segments Scatter Plot](./04_Tableau/Dashboard%20Images/scatter_plot.png)
+*Scatter plot visualizing customer segments based on revenue and average order value.*
+
+---
+
+## Key Insights
+- High-value customers consistently generate the majority of revenue
+- Mid-value customers represent opportunities for growth through targeted marketing
+- The segmentation dashboard allows stakeholders to easily identify and analyze customer groups
+
+---
+
+## Skills Demonstrated
+- SQL: CTEs, window functions, aggregations, segmentation
+- Tableau: Dashboards, KPIs, bar charts, scatter plots, interactive filters
+- Business analytics and data storytelling
