@@ -1,6 +1,6 @@
 # Project 1: Sales Overview Dashboard\
 
-\fs36 \
+
 ## Overview\
 This project provides a high-level overview of sales performance using a retail dataset (Superstore). The goal is to visualize overall revenue trends, regional performance, and key metrics to support executive-level decision-making.\
 \
