@@ -1,52 +1,48 @@
 # Data Analytics Portfolio
 
-## Overview
-This portfolio showcases hands-on data analytics projects focused on business insights, SQL analysis, and professional dashboard design. The projects demonstrate a progression from visualization fundamentals to advanced SQL-driven analysis.
+## Portfolio Highlights
+- **3 hands-on projects** demonstrating end-to-end data analysis from raw data to dashboards  
+- **Strong SQL skills:** CTEs, window functions, aggregation, ranking  
+- **Advanced Tableau dashboards:** KPIs, scatter plots, time-series analysis, interactive filters  
+- **Business impact focus:** Insights translated into clear executive-level visualizations  
 
-Tools used across projects include **SQL, Tableau, Excel**, and **Power BI concepts**.
+Tools: **SQL, Tableau, Excel**, and Power BI concepts
 
 ---
 
 ## Projects
 
-###  Project 1: Sales Overview Dashboard
+### [Project 1: Sales Overview Dashboard](./DataPortfolio)
 **Focus:** Data Visualization & Dashboard Design  
 **Tools:** Tableau  
-
-A high-level executive dashboard analyzing sales performance, trends over time, and regional performance. This project emphasizes clean visual design, KPI creation, and interactive filtering.
-
- Skills: Tableau, KPIs, time-series analysis, storytelling with data
+High-level executive dashboard analyzing sales performance, trends over time, and regional performance.  
+**Skills:** Tableau, KPIs, time-series analysis, storytelling with data
 
 ---
 
- ### Project 2: Customer Segmentation Analysis
+### [Project 2: Customer Segmentation Analysis](./Project_2_Customer_Segmentation)
 **Focus:** SQL + Business Analytics  
 **Tools:** SQL, Tableau  
-
-Customers are segmented using SQL window functions based on revenue and purchasing behavior. The results are visualized to highlight high-value and at-risk customer groups.
-
-Skills: SQL window functions, aggregation, customer analytics, Tableau dashboards
+Segmentation of customers using SQL window functions to identify high-value and at-risk groups. Visualized insights for marketing and business decisions.  
+**Skills:** SQL window functions, aggregation, customer analytics, Tableau dashboards
 
 ---
 
-### Project 3: Product Performance & Profitability
+### [Project 3: Product Performance & Profitability](./Project_3_Product_Performance)
 **Focus:** Advanced SQL + Visual Analytics  
 **Tools:** SQL, Tableau  
-
-Analyzes product performance using revenue, profit margin, and category trends. Includes ranking, KPIs, scatter plots, and segmentation-style insights.
-
-Skills: SQL CTEs, ranking, KPI design, advanced Tableau visualization
+Analyzes product-level revenue, profit, and profitability trends. Includes ranking, KPIs, scatter plots, and category insights.  
+**Skills:** SQL CTEs, ranking, KPI design, advanced Tableau visualization
 
 ---
 
 ## Skills Summary
-- SQL (CTEs, window functions, aggregations)
-- Tableau (Dashboards, KPIs, filters, tooltips)
-- Excel (Data exploration & validation)
-- Business-focused data storytelling
+- **SQL:** CTEs, window functions, aggregations, ranking, segmentation  
+- **Tableau:** Dashboards, KPIs, filters, tooltips, time-series and scatter plots  
+- **Excel:** Data exploration, validation, quick calculations  
+- **Business Communication:** Translating data insights into actionable decisions
 
 ---
 
 ## Contact
- Open to entry-level data analyst roles  
- United States
+Open to **entry-level data analyst roles** | United States
