@@ -5,6 +5,8 @@ This project provides a high-level overview of sales performance using a retail 
 
 This project focuses on **data visualization and dashboard design** using Tableau.
 
+---
+
 ## Data
 - **Source:** Superstore dataset (CSV)
 - **Key Fields:**
@@ -13,12 +15,24 @@ This project focuses on **data visualization and dashboard design** using Tablea
   - `sales`
   - `profit`
 
+---
+
 ## Tableau Dashboard
 The dashboard includes:
 - **KPIs:** Total Revenue and Total Profit
 - **Sales Trend:** Time series analysis of sales over time
 - **Regional Performance:** Sales comparison by region
 - **Filters:** Date and Region for interactive exploration
+
+### Dashboard Screenshots
+![Total Revenue & Profit KPIs](./03_Tableau/Dashboard%20Images/Sales_Overview_Dashboard.png)
+*Executive-level KPIs showing overall revenue and profit.*
+
+![Sales Trend](./03_Tableau/Dashboard%20Images/Monthly_Sales_Trend.png)
+*Time series view of sales over the year.*
+
+![Regional Performance](./03_Tableau/Dashboard%20Images/Sales_by_Region.png)
+*Comparison of sales by region.*
 
 ---
 
@@ -33,4 +47,3 @@ The dashboard includes:
 - Tableau: KPIs, time-series charts, regional analysis, filters
 - Data visualization and dashboard design
 - Communicating insights to non-technical stakeholders
-
